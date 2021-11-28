@@ -13,12 +13,12 @@ Simple Login App using Angular Framework
   
   Above line will create the App folder structure in  D:\Angular\simpleLogin
   
- #Navigate to the App folder D:\Angular\simpleLogin 
+ # 2 Navigate to the App folder D:\Angular\simpleLogin 
   D:\Angular> cd simpleLogin
 	PS D:\Angular\simpleLogin> 
 	
 
-# 2 Run the Command ng serve 
+# 3 Run the Command ng serve 
 
-# 3 Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+# 4 Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 i ｢wdm｣: Compiled successfully.
