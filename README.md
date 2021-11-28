@@ -31,3 +31,6 @@ Above command will build our Angular project and create all deliverable files to
 
 # Select your app
 ![image](https://user-images.githubusercontent.com/11384742/143729428-81e233ac-05ba-40d6-b86d-580fbe43ff55.png)
+
+# How to use Bootstrap style
+D:\Angular\simpleLogin> npm install bootstrap
