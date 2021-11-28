@@ -33,7 +33,7 @@ Above command will build our Angular project and create all deliverable files to
 ![image](https://user-images.githubusercontent.com/11384742/143729428-81e233ac-05ba-40d6-b86d-580fbe43ff55.png)
 
 # How to use Bootstrap style
-# install bootrap D:\Angular\simpleLogin> npm install bootstrap
-
+# 1  install bootrap D:\Angular\simpleLogin> npm install bootstrap
+# 2 import/update the style and script path specific to bootstrap in angular.json file
 ![image](https://user-images.githubusercontent.com/11384742/143730524-2a946d82-7d99-44bd-bbf3-fd22ab4ed350.png)
 
