@@ -28,3 +28,6 @@ i ｢wdm｣: Compiled successfully.
 ng build --prod
 Above command will build our Angular project and create all deliverable files to a dist folder.
 ![image](https://user-images.githubusercontent.com/11384742/143729330-916a6745-8a38-4525-8961-e2acc609b69d.png)
+
+# Select your app
+![image](https://user-images.githubusercontent.com/11384742/143729428-81e233ac-05ba-40d6-b86d-580fbe43ff55.png)
