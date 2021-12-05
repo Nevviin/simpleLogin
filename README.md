@@ -1,43 +1,27 @@
-# simpleLogin
-Simple Login App using Angular Framework
+# SimpleLogin
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
-# 1 D:\Angular> ng new simpleLogin
-? Would you like to add Angular routing? Yes
-? Which stylesheet format would you like to use? (Use arrow keys)
-> CSS
-  SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]
-  Sass   [ https://sass-lang.com/documentation/syntax#the-indented-syntax ]
-  Less   [ http://lesscss.org                                             ]
-  Stylus [ http://stylus-lang.com                                         ]
-  
-  Above line will create the App folder structure in  D:\Angular\simpleLogin
-  
- # 2 Navigate to the App folder D:\Angular\simpleLogin 
-  D:\Angular> cd simpleLogin
-	PS D:\Angular\simpleLogin> 
-	
+## Development server
 
-# 3 Run the Command ng serve 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-# 4 Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
-i ｢wdm｣: Compiled successfully.
+## Code scaffolding
 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-# Deployment
-# ng build --prod
-Above command will build our Angular project and create all deliverable files to a dist folder.
-![image](https://user-images.githubusercontent.com/11384742/143729330-916a6745-8a38-4525-8961-e2acc609b69d.png)
+## Build
 
-# Select your app
-![image](https://user-images.githubusercontent.com/11384742/143729428-81e233ac-05ba-40d6-b86d-580fbe43ff55.png)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-# How to use Bootstrap style
-# 1  install bootrap D:\Angular\simpleLogin> npm install bootstrap
-# 2 import/update the style and script path specific to bootstrap in angular.json file
-![image](https://user-images.githubusercontent.com/11384742/143730524-2a946d82-7d99-44bd-bbf3-fd22ab4ed350.png)
+## Running unit tests
 
-after angular.json update
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-![image](https://user-images.githubusercontent.com/11384742/143730658-21c67861-e09f-42f8-b6a1-52f68454d27f.png)
+## Running end-to-end tests
 
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
