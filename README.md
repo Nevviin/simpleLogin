@@ -41,3 +41,6 @@ after angular.json update
 
 ![image](https://user-images.githubusercontent.com/11384742/143730658-21c67861-e09f-42f8-b6a1-52f68454d27f.png)
 
+# How to create model classs in angular
+
+ng generate class <yourClassName> --type = model
