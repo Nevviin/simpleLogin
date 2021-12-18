@@ -43,4 +43,4 @@ after angular.json update
 
 # How to create model classs in angular
 
-ng generate class <yourClassName> --type = model
+ng generate class <yourClassName> --type=model
