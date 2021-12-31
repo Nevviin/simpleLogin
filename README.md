@@ -32,15 +32,4 @@ Above command will build our Angular project and create all deliverable files to
 # Select your app
 ![image](https://user-images.githubusercontent.com/11384742/143729428-81e233ac-05ba-40d6-b86d-580fbe43ff55.png)
 
-# How to use Bootstrap style
-# 1  install bootrap D:\Angular\simpleLogin> npm install bootstrap
-# 2 import/update the style and script path specific to bootstrap in angular.json file
-![image](https://user-images.githubusercontent.com/11384742/143730524-2a946d82-7d99-44bd-bbf3-fd22ab4ed350.png)
 
-after angular.json update
-
-![image](https://user-images.githubusercontent.com/11384742/143730658-21c67861-e09f-42f8-b6a1-52f68454d27f.png)
-
-# How to create model classs in angular
-
-ng generate class <yourClassName> --type=model
